@@ -1,16 +1,18 @@
 
 ***
 
-# <projectName>
+# Learn HTML
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+<img alt="HTML5 logo failed to load. Click/tap here to attempt to view it" src="/HTML5_logo_and_wordmark.svg" width="200" height="200"/> 
 
 # By:
 
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
+## [Seanpm2001](https://github.com/seanpm2001/), Et; Al.
 
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
-
+| This project is part of: |
+|---|
+| <img alt="Learn logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Learn/Letter+L+blue.png" width="200" height="200"/> |
+| [:octocat: `/seanpm2001/Learn/`](https://github.com/seanpm2001/Learn/) |
 
 ### Top
 
@@ -48,6 +50,7 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [02.0 - About](#About)
 
+<!--
 [03.0 - Wiki](#Wiki)
 
 [04.0 - History](#History)
@@ -59,56 +62,62 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 > [04.3 - Beta History](#Beta-history)
 
 > [04.4 - Modern History](#Modern-history)
+!-->
 
-[05.0 - Copying](#Copying)
+[03.0 - Copying](#Copying)
 
-[06.0 - Credits](#Credits)
+[04.0 - Credits](#Credits)
 
-[07.0 - Installation](#Installation)
+[05.0 - Installation](#Installation)
 
-[08.0 - Version history](#Version-history)
+[06.0 - Version history](#Version-history)
 
-[09.0 - Version history](#Version-history)
+[07.0 - Software status](#Software-status)
 
-[10.0 - Software status](#Software-status)
+[08.0 - Sponsor info](#Sponsor-info)
 
-[11.0 - Sponsor info](#Sponsor-info)
+[09.0 - Contributers](#Contributers)
 
-[12.0 - Contributers](#Contributers)
+[10.0 - Issues](#Issues)
 
-[13.0 - Issues](#Issues)
+> [10.1 - Current issues](#Current-issues)
 
-> [13.1 - Current issues](#Current-issues)
+> [10.2 - Past issues](#Past-issues)
 
-> [13.2 - Past issues](#Past-issues)
+> [10.3 - Past pull requests](#Past-pull-requests)
 
-> [13.3 - Past pull requests](#Past-pull-requests)
+> [10.4 - Active pull requests](#Active-pull-requests)
 
-> [13.4 - Active pull requests](#Active-pull-requests)
+[11.0 - Resources](#Resources)
 
-[14.0 - Resources](#Resources)
+[12.0 - Contributing](#Contributing)
 
-[15.0 - Contributing](#Contributing)
+[13.0 - About README](#About-README)
 
-[16.0 - About README](#About-README)
+[14.0 - README Version history](#README-version-history)
 
-[17.0 - README Version history](#README-version-history)
+[15.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
-[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [18.9 - End of file](#EOF)
+> [15.9 - End of file](#EOF)
 
 ***
 
-# <repoName>
-<repo_description>
+# Learn-HTML
+A repository for showcasing my knowledge of the HTML computing language, and continuing to learn the language.
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above.
 
+***
+
+## HTML
+
+I can't find my notes right now, they will also take a while to implement into this list.
+
+<!--
 ***
 
 ## Wiki
@@ -138,6 +147,9 @@ No Beta history to show for this project.
 ### Modern history
 
 No Modern history to show for this project.
+
+***
+!-->
 
 ***
 
@@ -291,12 +303,11 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-**File type:** `Markdown Document (*.md *.mkd *.markdown)`
+**File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
+**File version:** `1 (2023, Wednesday, April 19th at 12:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,407`
-
+**Line count (including blank lines and compiler line):** `0,442`
 ***
 
 ## README version history
@@ -379,13 +390,21 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (2023, Wednesday, April 19th at 12:57 pm PST)
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 1
+- [x] Added the HTML5 logo
+- [x] Updated the index
+- [x] Updated the title section
+- [x] Updated the description
+- [x] Updated the about section
+- [x] Added the HTML section
+- [x] Hid some unnecessary sections
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [x] Added the supporters section
+- [ ] No other changes in version 1
 
 Version 2 (Coming soon)
 
@@ -402,5 +421,20 @@ Version 2 (Coming soon)
 ( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
 
 ### EOF
+
+***
+
+## Supported by
+
+<!-- ![GeeksterLogo.png](/Graphics/Supporters/G/Geekster/GeeksterLogo.png) !-->
+
+<img alt="Geekster logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Supporters/G/Geekster/GeeksterLogo.png" width="1600" height="357" href="https://www.geekster.in">
+
+### [Geekster](https://www.geekster.in/)
+
+**Featured content:**
+
+| [Cheat-sheet-HTML-tags](https://blog.geekster.in/cheat-sheet-html-tags/) | [Difference between HTML and HTML5](https://blog.geekster.in/difference-between-html-and-html5/) |
+|---|---|
 
 ***
